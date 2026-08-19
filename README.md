@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=120&section=footer"/>
 </p>
 
-
-
 <div align="center">
 
 <!-- 💗 PINK PROFILE ICON -->
@@ -119,7 +117,19 @@ i love pretty things, cute aesthetics, and anything that catches my eye.
 
 ╰─────────────── ♡ ───────────────╯
 ```
+<div align="center">
 
+<!-- 💗 PINK PROFILE ICON -->
+<img
+  src="https://dk2dv4ezy246u.cloudfront.net/widgets/sSoADwirjAwY_large.jpg"
+  width="180"
+  height="180"
+  style="
+    object-fit: cover;
+    border: 6px solid #ff9dcc;
+    box-shadow: 0 0 18px #ff9dcc, 0 0 35px rgba(255,157,204,0.45);
+  "
+/>
 ---
 
 ## 🧸 fun facts
