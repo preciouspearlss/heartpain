@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=120&section=footer"/>
+</p>
+
 
 
 <div align="center">
@@ -16,6 +20,7 @@
 #  hii
 # ꨄ . i'm eli > onyxx
 <br><br>
+
 
 <!-- 🎧 MUSIC PLAYER -->
 <table align="center">
@@ -56,8 +61,9 @@
 </table>
 
 </div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=180&section=header&text=💕%20this%20to%20my%20is%20my%20 world!&fontColor=FFFFFF&fontSize=25&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=120&section=footer"/>
 </p>
 
 <p align="center">
