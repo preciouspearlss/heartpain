@@ -1,7 +1,63 @@
-# 🎀 hiiii, i'm onyxx / eli!♡
 
+
+<div align="center">
+
+<!-- 💗 PINK PROFILE ICON -->
+<img
+  src="https://avatars.githubusercontent.com/u/318459881?s=400&u=c9c3d54f2d78c722ab9bc03a23203e43840cbf96&v=4"
+  width="180"
+  height="180"
+  style="
+    object-fit: cover;
+    border: 6px solid #ff9dcc;
+    box-shadow: 0 0 18px #ff9dcc, 0 0 35px rgba(255,157,204,0.45);
+  "
+/>
+#  hii
+# ꨄ . i'm eli > onyxx
+<br><br>
+
+<!-- 🎧 MUSIC PLAYER -->
+<table align="center">
+<tr>
+<td align="center">
+
+<img
+  src="https://i.scdn.co/image/ab67616d0000aa5432a7d87248d1b75463483df5"
+  width="100"
+  height="100"
+  style="object-fit: cover;"
+/>
+
+<br>
+
+<b> Baby Be Mine </b>
+
+<br>
+
+<sub>♡ Michael Jackson ♡</sub>
+
+<br><br>
+
+`♡ ━━━━━━━━●━━━━ ♡`
+
+<br>
+
+<sub>↶　◀　▶　↷</sub>
+
+<br><br>
+
+<a href="https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY">
+  🎧 <b>listen on Spotify</b>
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=180&section=header&text=welcome%20to%20my%20little%20corner!&fontColor=FFFFFF&fontSize=25&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A8C4&height=180&section=header&text=💕%20this%20to%20my%20is%20my%20 world!&fontColor=FFFFFF&fontSize=25&animation=fadeIn" />
 </p>
 
 <p align="center">
